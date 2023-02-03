@@ -1,0 +1,60 @@
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: normal;
+  src: local("Poppins Bold"), local("Poppins-Bold"),
+  url("../fonts/Poppins-Bold.woff") format(woff),
+  url("../fonts/Poppins-Bold.woff2") format(woff2),
+  url("../fonts/Poppins-Bold.eot") format(eot);
+  font-display: swap;
+}
+@font-face {
+  font-family: Poppins;
+  font-weight: 600;
+  font-style: normal;
+  src: local("Poppins SemiBold"), local("Poppins-SemiBold"),
+  url("../fonts/Poppins-SemiBold.woff") format(woff),
+  url("../fonts/Poppins-SemiBold.woff2") format(woff2),
+  url("../fonts/Poppins-SemiBold.eot") format(eot);
+  font-display: swap;
+}
+@font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: normal;
+  src: local("Poppins Medium"), local("Poppins-Medium"),
+  url("../fonts/Poppins-Medium.woff") format(woff),
+  url("../fonts/Poppins-Medium.woff2") format(woff2),
+  url("../fonts/Poppins-Medium.eot") format(eot);
+  font-display: swap;
+}
+@font-face {
+  font-family: Avenir;
+  font-weight: 800;
+  font-style: normal;
+  src: local("Avenir Bold"), local("Avenir-Bold"),
+  url("../fonts/Avenir-Bold.woff") format(woff),
+  url("../fonts/Avenir-Bold.woff2") format(woff2),
+  url("../fonts/Avenir-Bold.eot") format(eot);
+  font-display: swap;
+}
+@font-face {
+  font-family: Avenir;
+  font-weight: 500;
+  font-style: normal;
+  src: local("Avenir Medium"), local("AvenirMedium"),
+  url("../fonts/AvenirMedium.woff") format(woff),
+  url("../fonts/AvenirMedium.woff2") format(woff2),
+  url("../fonts/AvenirMedium.eot") format(eot);
+  font-display: swap;
+}
+@font-face {
+  font-family: Avenir;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Avenir Roman"), local("Avenir-Roman"),
+  url("../fonts/Avenir-Roman.woff") format(woff),
+  url("../fonts/Avenir-Roman.woff2") format(woff2),
+  url("../fonts/Avenir-Roman.eot") format(eot);
+  font-display: swap;
+}
